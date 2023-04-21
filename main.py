@@ -203,9 +203,11 @@ st.markdown('''
 ## Skills and Languages
 ''')
 txt3('Programming', '`Python`, `R`, `VB`')
-txt3('Data processing/visualization', '`SQL`, `Office tools`,`Power bi`')
+txt3('Data processing/visualization', '`SQL`, `pandas`, `numpy`')
+txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`,`ggplot2`')
 txt3('Machine Learning', '`scikit-learn`')
 txt3('Model deployment', '`streamlit`')
+txt3('Other tools','`Office package`, `Power bi`')
 txt3('Languages', '`English`,`French`,`Arabic`')
 
 #####################
